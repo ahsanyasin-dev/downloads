@@ -1,1 +1,1 @@
-bfb18aa3d81b616d7155314175e02a3d6533fc15319d9ff8a9bec1baab300f74  android-debug.apk
+0f59ef6bdd4739f723d669630f2bb53b562f9b023c6da9ff5fbda6f4831e8f5b  android-debug.apk
